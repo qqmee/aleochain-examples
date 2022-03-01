@@ -1,5 +1,7 @@
 # Start here. Build anything.
 
+GraphQL Playground [aleochain.io/graphql](https://aleochain.io/graphql)
+
 ## Python
 
 - [gql-http-variables](./examples/python-gql-http-variables/gql-http-variables.py) - Request latest 15 blocks
